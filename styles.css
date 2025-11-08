@@ -4,6 +4,7 @@
 }
 
 .project-tile {
-    border: 1vh;
+    border: 5vw;
     border-color: yellow;
+    border-radius: 15;
 }
