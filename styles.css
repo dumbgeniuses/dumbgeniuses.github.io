@@ -1,10 +1,10 @@
 * {
-    background-color: gray;
+    background-color: rgb(64, 64, 64);
     color: white
 }
 
 .project-tile {
     border-width: 5vw;
-    border-color: yellow;
+    border-color: rgb(255, 0, 255);
     border-radius: 15;
 }
