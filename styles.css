@@ -1,0 +1,8 @@
+* {
+    background-color: black;
+}
+
+.project-tile {
+    border: 1vh;
+    border-color: yellow;
+}
